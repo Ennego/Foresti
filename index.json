@@ -1,0 +1,30 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://Ennego.github.io/Foresti/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Foresti"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://Ennego.github.io/Foresti/4hmykukebbeiqagdxgkmg/88635bb23d31b3a358bd619c49e29521/full/203,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 203
+        }
+    ],
+    "items": [
+        {
+            "id": "https://Ennego.github.io/Foresti/4hmykukebbeiqagdxgkmg/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "De plurimis claris selectisque Mulieribus"
+                ]
+            }
+        }
+    ]
+}
